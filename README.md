@@ -10,4 +10,4 @@ We use regression model to predict the stock price of 'APPL'.
 </a>
 
 ### The results: 
-<img width="900" src="https://github.com/Elstargo00/Stock-Market-Price-Prediction/blob/master/images/results.png">
+<img width="700" src="https://github.com/Elstargo00/Stock-Market-Price-Prediction/blob/master/images/results.png">
